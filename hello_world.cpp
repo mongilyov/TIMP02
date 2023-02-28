@@ -6,5 +6,5 @@ int main() {
     std::cout << "Your name is: ";
     std::cin >> s;
     std::cout << "Hello world from " << s << std::endl;
-    return 0; // ---> this means no errors
+    return 0; // ---> значит, что нет ошибок
 }
